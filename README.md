@@ -1,7 +1,7 @@
 ## 🐝 sleepy-bee 
 Android, Cross-platform Framework
 
-📔 **Blog** https://sleepybee-dev.netlify.app
+📔 **Blog** https://sleepybee-dev.github.io
 
 **Skills**
 
